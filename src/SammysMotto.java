@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Danette
+ * @author Megan
  */
 public class SammysMotto {
 
@@ -15,7 +15,7 @@ public class SammysMotto {
      */
     public static void main(String[] args) {
         System.out.println("*************************************");
-        System.out.println("** Sammy's makes it fun in the sun **");
+        System.out.println("** Sammy's doesn't make it fun in the sun **");
         System.out.println("*************************************");
     }
     
